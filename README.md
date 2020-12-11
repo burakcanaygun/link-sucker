@@ -7,6 +7,10 @@ You need to install **requirements.txt** via this code line
 `pip install -r requirements.txt`
 <br>
 <br>
+If you don't have any web drivers, you can download them from this <a href="https://www.selenium.dev/documentation/en/webdriver/driver_requirements/">link.</a>
+<br>
+I used the chromium/chrome web driver in this project.
+<br>
 
 Code that will ask you for two values when you run the main.py file.
 <br>
